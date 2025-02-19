@@ -1,0 +1,4 @@
+ Run the Project
+
+python server/server.py
+python client/client.py
