@@ -1,0 +1,10 @@
+SecureImageEncryption/
+├── client/
+│   ├── client.py
+├── server/
+│   ├── server.py
+├── utils/
+│   ├── crypto_utils.py
+│   ├── image_utils.py
+├── requirements.txt
+├── README.md
